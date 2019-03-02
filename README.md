@@ -2,6 +2,12 @@
 
 This is *the official repository of MTE 506 Digital Control* course. All labs will be added after sessions.
 
+## Software to run labs
+
+ - Proteus 8.8 SP1
+ - Arduino IDE 1.8.x
+ - VS 2017 Coimmunity/Pro/Ent edition with VSMicro plugin (*optional*)
+
 ## How to get updated labs
 
  
