@@ -22,10 +22,12 @@ This is *the official repository of MTE 506 Digital Control* course. All labs wi
 
 
 ## Course Updates
-**2/3/2019** -  Added Lab 1 presentation and lab solution
+**02/03/2019**	-	Added Lab 1 presentation and lab solution
 
-**6/3/2019** -  Added Lab 2 presentation and lab solution
+**06/03/2019** 	-  	Added Lab 2 presentation and lab solution
 
-**12/3/2019** - Added Lab 3 presentation and lab solution
+**12/03/2019**	-	Added Lab 3 presentation and lab solution
 
-**19/3/2019** - Added Lab 4 presentation and lab solution
+**19/03/2019** 	- 	Added Lab 4 presentation and lab solution
+
+**08/04/2019** 	- 	Added Lab 5 presentation and lab solution
