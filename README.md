@@ -35,3 +35,5 @@ This is *the official repository of MTE 506 Digital Control* course. All labs wi
 **15/04/2019** 	- 	Added Lab 6 presentation (no exercises given)
 
 **22/04/2019** 	- 	Added Lab 7 presentation (no exercises given)
+
+**07/05/2019** 	- 	Added Lab 8 presentation (no exercises given)
