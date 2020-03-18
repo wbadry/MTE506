@@ -22,3 +22,5 @@ This is *the official repository of MTE 506 Digital Control* course. All labs wi
 **01/03/2020**	-	Added Lab 1, Lab 2 and Lab 3
 
 **13/03/2020**	-	Added Lab 4
+
+**18/03/2020**	-	COVID19 Announcement
