@@ -14,9 +14,11 @@ This is *the official repository of MTE 506 Digital Control* course. All labs wi
  2. Open GitHub Desktop app --> File -- > Options and login using GitHub account.
  3. Click Add --> Clone repository --> And add course URL (https://github.com/wbadry/MTE506) and your desired local folder.
  ![](https://github.com/wbadry/MTE405/blob/master/images/Clone%20Github.png)
-4. Whenever you want to get updates, click on repository --> pull
-![](https://github.com/wbadry/MTE405/blob/master/images/Pull%20update.png)
-
+ 4. Whenever you want to get updates, click on repository --> pull
+ ![](https://github.com/wbadry/MTE405/blob/master/images/Pull%20update.png)
+ 5. Click on watching to get notifications of the new updates
+ ![](https://github.com/wbadry/MTE405/blob/master/images/watching.png)
+ 
 
 ## Course Updates
 **01/03/2020**	-	Added Lab 1, Lab 2 and Lab 3
