@@ -34,3 +34,5 @@ This is *the official repository of MTE 506 Digital Control* course. All labs wi
 **10/04/2020**	-	Added Lab 7 with voice.
 
 **18/04/2020**	-	Added Lab 8 with voice.
+
+**26/04/2020**	-	Classwork updated, Assignment 5 answer.
